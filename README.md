@@ -20,4 +20,3 @@ Lover of Technology and coding :heart:
 - Thanks for visiting. 
 - Enjoy it!! o/
 
-![](https://komarev.com/ghpvc/?username=ifelipesilva&style=flat-square)
