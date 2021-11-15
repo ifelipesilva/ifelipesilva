@@ -4,7 +4,7 @@
 # Welcome!
 ## I'm Felipe! Let me present a little about myself :D
 
-Full-stack Focused on React.js and Node.js  | Software engineer :robot:
+Full-stack Focused on React.js and Node.js   :robot:
 
 Lover of Technology and coding :heart:
 
