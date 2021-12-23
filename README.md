@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=armando-couto&show_icons=true&theme=chartreuse-dark)](https://github.com/armando-couto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armando-couto&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifelipesilva&show_icons=true&theme=chartreuse-dark)](https://github.com/ifelipesilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifelipesilva&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Welcome!
