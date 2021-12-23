@@ -20,7 +20,6 @@ Lover of Technology and coding :heart:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifelipesilva&show_icons=true&theme=chartreuse-dark)](https://github.com/ifelipesilva/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifelipesilva&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
